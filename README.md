@@ -44,13 +44,12 @@ HOW TO RUN
 
 LIVE DEMO
 ---------
-(Add your GitHub Pages link here)
-
+https://anandhu-babu,github,io/interactive-calculator/
 ----------------------------------------
 
 AUTHOR
 ------
-Your Name
+Anandhu B
 
 ----------------------------------------
 
