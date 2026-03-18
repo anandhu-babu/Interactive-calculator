@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/calc.css">
+        <link rel="stylesheet" href="calc.css">
         <title>Calculator</title>
     </head>
 
@@ -40,32 +40,6 @@
                 
             </div>
         </div>
-
-        <script>
-            const display = document.getElementById("display");
-
-            function appendValue(value) {
-                display.value += value;
-            }
-
-            function clearDisplay() {
-                display.value = "";
-            }
-
-            function calculateResult() {
-                try {
-                    display.value = eval(display.value);
-                } catch {
-                    display.value = "Error";
-                }
-            }
-
-            function erase() {
-                let display = document.getElementById("display");
-                display.value =
-                display.value.slice(0,-1);
-            }
-        </script>
-
-        </body>
+        <script src="script.js">    </script>
+    </body>
 </html>
