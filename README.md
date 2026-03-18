@@ -44,7 +44,7 @@ HOW TO RUN
 
 LIVE DEMO
 ---------
-https://anandhu-babu,github,io/interactive-calculator/
+https://anandhu-babu.github.io/interactive-calculator/
 ----------------------------------------
 
 AUTHOR
